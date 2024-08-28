@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "main.ba8182cd.css",
+    "main.js": "main.c10f8686.js",
+    "453.2f0a9a4e.chunk.js": "453.2f0a9a4e.chunk.js",
+    "index.html": "index.html",
+    "main.ba8182cd.css.map": "main.ba8182cd.css.map",
+    "main.c10f8686.js.map": "main.c10f8686.js.map",
+    "453.2f0a9a4e.chunk.js.map": "453.2f0a9a4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "main.ba8182cd.css",
+    "main.c10f8686.js"
+  ]
+}
